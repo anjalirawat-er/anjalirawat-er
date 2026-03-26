@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hi there 👋, I'm Anjali Rawat ...<br><br> Python Developer | Automating boring tasks & building smart backends<br>🤖Python Automation Projects & Web Scraping Tools<br>💡Advanced Python, REST APIs & Backend Development with FastAPI<br>⚡Python, Automation, Web Scraping & Data Processing<br><br> 😊Fun fact:<br>  If I have to do something more than twice, I write a Python script for it!
 
-
-## 🌐 Socials:
 ## 🌐 Socials:
 
 <p align="center">
